@@ -73,7 +73,7 @@ Orders,Sales,Product,Location Cleand Data-sets- <a href ="https://github.com/jsi
 ## Key Insights Delivered
 
 - 2023 achieved **$733K** in Total Sales with **20.36%** YoY growth
-- Identified top-performing and under-performing sub-categories
+- Identified top-performing and under-performing sub-categories 
 - Highlighted high-value customers and sales concentration patterns
 - Discovered clear seasonal and weekly trends
 
