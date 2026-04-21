@@ -12,6 +12,7 @@ Interactive Sales &amp; Customer Analytics Dashboards built in Tableau | 2020-20
 This project demonstrates end-to-end data analytics skills — from **data cleaning with Power Query** to building professional, insightful, and interactive dashboards.
 
 ![Sales & customer Dashboard White Theam 2020-2023 Preview] <a href="https://github.com/jsivamani12-wq/SALES-CUSTOMER-DASHBOARD/commit/6322ec74b7a6c8cecb3049256e1537ea01a5ad92"> click..me </a>
+
 ![Sales & customer Dashboard 2020-2023 Black-Theam Preview] <a href="https://github.com/jsivamani12-wq/SALES-CUSTOMER-DASHBOARD/commit/9ec7f2fc76e59da6aab02d2de21b09d93d8125b9"> click..me </a>
 ## Project Highlights
 
