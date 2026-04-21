@@ -86,7 +86,7 @@ Orders,Sales,Product,Location Cleand Data-sets- <a href ="https://github.com/jsi
 ## Connect With Me
 
 - **LinkedIn**: 
-- **Tableau Public Profile**: < a href="https://public.tableau.com/app/profile/siva.mani8858/vizzes"> click..me </a>
+- **Tableau Public Profile**: <a href="https://public.tableau.com/app/profile/siva.mani8858/vizzes"> click..me </a>
 - **Email**: jsivamnai12@gmail.com
 
 ---
