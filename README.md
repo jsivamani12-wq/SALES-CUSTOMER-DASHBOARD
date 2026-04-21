@@ -59,6 +59,7 @@ This project demonstrates end-to-end data analytics skills — from **data clean
 ## Screenshots
 
 ![Sales & Customer Dashboard White Theam2020-2023]- <a href="https://github.com/jsivamani12-wq/SALES-CUSTOMER-DASHBOARD/commit/6322ec74b7a6c8cecb3049256e1537ea01a5ad92"> click..me </a>
+
 ![Sales & Customer Dashboard Black Theam 2022] <a href="https://github.com/jsivamani12-wq/SALES-CUSTOMER-DASHBOARD/commit/9ec7f2fc76e59da6aab02d2de21b09d93d8125b9"> click..me </a>
 
 ## Dataset & Data Preparation
