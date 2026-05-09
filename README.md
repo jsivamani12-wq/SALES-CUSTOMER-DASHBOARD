@@ -1,14 +1,15 @@
 # SALES-CUSTOMER-DASHBOARD
-Interactive Sales &amp; Customer Analytics Dashboards built in Tableau | 2020-2023 Superstore Data  
-• Sales Performance Dashboard with YoY trends 
-• Customer Behavior &amp; Segmentation Dashboard   
-• 4 cleaned tables (Orders, Customer, Location, Product) processed in Power Query
-• Analyzed 2,587 customers ($609K revenue, +29.47% YoY) using advanced SQL (CTEs, Window
-  Functions), Python (Pandas) & Tableau
-• Performed RFM segmentation & customer lifetime value analysis; built forecasting models & dash-
-  boards for Revenue, Retention & AOV
-• Recommended targeted retention strategies resulting in 16.28% increase in average sales per cus-
-  tomer
+- Interactive Sales & Customer Analytics Dashboards | Tableau (2020–2023 Superstore Data)
+- Built Sales Performance Dashboard with Year-over-Year (YoY) trends.
+- Developed Customer Behavior & Segmentation Dashboard for actionable insights.
+- Processed 4 cleaned tables (Orders, Customer, Location, Product) using Power Query.
+- Analyzed 2,587 customers generating $609K revenue (+29.47% YoY) using:
+  Advanced SQL (CTEs, Window Functions)
+  Python (Pandas)
+  Tableau
+Performed RFM segmentation and Customer Lifetime Value (CLV) analysis.
+Built forecasting models and dashboards for Revenue, Retention, and Average Order Value (AOV).
+Recommended targeted retention strategies, resulting in 16.28% increase in average sales per customer.
 
 # Sales & Customer Analytics Dashboards | Tableau
 
