@@ -54,7 +54,7 @@ This project demonstrates end-to-end data analytics skills — from **data clean
 ## Live Interactive Dashboards 
 
 **Tableau Public Links:**
-- ![Tablue public.com](<a href="https://public.tableau.com/app/discover"> public.tablue.com </a>)
+- [Tablue public.com]<a href="https://public.tableau.com/app/discover"> ![Talbau.public.com](https://img.shields.io/badge/Power%20BI-FF0000?style=for-the-badge&logo=powerbi&logoColor=white)</a>
 - [Tablue public-sales & customer dashboard]  <a href="https://public.tableau.com/app/profile/siva.mani8858/viz/SALESPROJECT-MAIN-WHITE/SALSEDashboard1"> Dashboard </a>
 - [Tablue public-sales & customer dashboard Black Team] <a href="https://public.tableau.com/app/profile/siva.mani8858/viz/SALESPROJECT-MAIN-BLACK/SALSEDashboard1?publish=yes"> dashboard</a>
 
