@@ -13,9 +13,10 @@
 
 
 ## Preview
-<a href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/commit/de89c550c192be29f733064cabfa1ea8f2a486a2">![Quick Commerce](https://img.shields.io/badge/Blinkit-Analytics-9900cc?style=for-the-badge)</a>
-<A href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/blob/main/blinkit%20project.pbix">![Power BI](https://img.shields.io/badge/MyBI-WookBook-33ff00?style=for-the-badge&logo=powerbi&logoColor=white) </a>
-<a href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">![Quick Commerce](https://img.shields.io/badge/Clean-Dataset-3300ff?style=for-the-badge) </a>
+<a href="https://github.com/jsivamani12-wq/SALES-CUSTOMER-DASHBOARD/commit/6322ec74b7a6c8cecb3049256e1537ea01a5ad92">![Quick Commerce](https://img.shields.io/badge/sales-customer-9900cc?style=for-the-badge)</a>
+ <a href="https://github.com/jsivamani12-wq/SALES-CUSTOMER-DASHBOARD/blob/main/SALES%20PROJECT-MAIN-WHITE.twbx">
+  Dashboard </a> ![Power BI](https://img.shields.io/badge/MyTableau-WookBook-33ff00?style=for-the-badge&logo=powerbi&logoColor=white) </a>
+<a href ="https://github.com/jsivamani12-wq/SALES-CUSTOMER-DASHBOARD">![Quick Commerce](https://img.shields.io/badge/Clean-Dataset-3300ff?style=for-the-badge) </a>
 
 # Sales & Customer Analytics Dashboards | Tableau
 
