@@ -3,10 +3,13 @@ Interactive Sales &amp; Customer Analytics Dashboards built in Tableau | 2020-20
 • Sales Performance Dashboard with YoY trends 
 • Customer Behavior &amp; Segmentation Dashboard   
 • 4 cleaned tables (Orders, Customer, Location, Product) processed in Power Query
+
 • Analyzed 2,587 customers ($609K revenue, +29.47% YoY) using advanced SQL (CTEs, Window
   Functions), Python (Pandas) & Tableau
+  
 • Performed RFM segmentation & customer lifetime value analysis; built forecasting models & dash-
   boards for Revenue, Retention & AOV
+  
 • Recommended targeted retention strategies resulting in 16.28% increase in average sales per cus-
   tomer
 
