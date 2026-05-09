@@ -72,10 +72,12 @@ This project demonstrates end-to-end data analytics skills — from **data clean
 Orders,Sales,Product,Location Cleand Data-sets- <a href ="https://github.com/jsivamani12-wq/SALES-CUSTOMER-DASHBOARD"> click..me </a>
 ## Key Insights Delivered
 
-- 2023 achieved **$733K** in Total Sales with **20.36%** YoY growth
-- Identified top-performing and under-performing sub-categories 
-- Highlighted high-value customers and sales concentration patterns
-- Discovered clear seasonal and weekly trends
+-  Analyzed 2,587 customers ($609K revenue, +29.47% YoY) using advanced SQL (CTEs, Window
+Functions), Python (Pandas) & Tableau
+- Performed RFM segmentation & customer lifetime value analysis; built forecasting models & dash-
+boards for Revenue, Retention & AOV
+- Recommended targeted retention strategies resulting in 16.28% increase in average sales per cus-
+tomer
 
 ## Future Enhancements (In Progress)
 
