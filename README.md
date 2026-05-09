@@ -4,9 +4,9 @@
 - Developed Customer Behavior & Segmentation Dashboard for actionable insights.
 - Processed 4 cleaned tables (Orders, Customer, Location, Product) using Power Query.
 - Analyzed 2,587 customers generating $609K revenue (+29.47% YoY) using:
-- Advanced SQL (CTEs, Window Functions)
-- Python (Pandas)
-- Tableau
+    - Advanced SQL (CTEs, Window Functions)
+    - Python (Pandas)
+    - Tableau
 - Performed RFM segmentation and Customer Lifetime Value (CLV) analysis.
 - Built forecasting models and dashboards for Revenue, Retention, and Average Order Value (AOV).
 - Recommended targeted retention strategies, resulting in 16.28% increase in average sales per customer.
