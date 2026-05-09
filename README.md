@@ -11,9 +11,8 @@
 - Built forecasting models and dashboards for Revenue, Retention, and Average Order Value (AOV).
 - Recommended targeted retention strategies, resulting in 16.28% increase in average sales per customer.
 
---
-## Preview
 
+## Preview
 <a href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/commit/de89c550c192be29f733064cabfa1ea8f2a486a2">![Quick Commerce](https://img.shields.io/badge/Blinkit-Analytics-9900cc?style=for-the-badge)</a>
 <A href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/blob/main/blinkit%20project.pbix">![Power BI](https://img.shields.io/badge/MyBI-WookBook-33ff00?style=for-the-badge&logo=powerbi&logoColor=white) </a>
 <a href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">![Quick Commerce](https://img.shields.io/badge/Clean-Dataset-3300ff?style=for-the-badge) </a>
