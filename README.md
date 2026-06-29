@@ -18,8 +18,9 @@
   ![Power BI](https://img.shields.io/badge/MyTableau-WookBook-33ff00?style=for-the-badge&logo=powerbi&logoColor=white) </a>
 <a href ="https://github.com/jsivamani12-wq/SALES-CUSTOMER-DASHBOARD">![Quick Commerce](https://img.shields.io/badge/Clean-Dataset-3300ff?style=for-the-badge) </a>
 
- ## Sales
+ # Sales
 
+<img width="1397" height="788" alt="image" src="https://github.com/jsivamani12-wq/SALES-CUSTOMER-DASHBOARD/blob/main/Screenshot%20(25).png" />
 # Sales & Customer Analytics Dashboards | Tableau
 
 **Interactive Sales Performance & Customer Analytics Dashboards** built in Tableau using 4 years of Superstore transaction data (2020–2023). 
