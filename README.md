@@ -1,4 +1,8 @@
 # SALES-CUSTOMER-DASHBOARD
+
+<img width="1397" height="788" alt="image" src="https://github.com/jsivamani12-wq/SALES-CUSTOMER-DASHBOARD/blob/main/Screenshot%20(25).png" />
+
+# Sales & Customer Analytics Dashboards | Tableau
 - Interactive Sales & Customer Analytics Dashboards | Tableau (2020–2023 Superstore Data)
 - Built Sales Performance Dashboard with Year-over-Year (YoY) trends.
 - Developed Customer Behavior & Segmentation Dashboard for actionable insights.
